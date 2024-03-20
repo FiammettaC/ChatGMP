@@ -1,0 +1,18 @@
+[project]
+name = "ChatGMP"
+version = "0.0.1"
+authors = [
+  { name="Fiammetta Caccavale", email="fiacac@kt.dtu.dk" },
+]
+description = "Chatbot used in a course at DTU"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/FiammettaC/ChatGMP"
+Issues = "https://github.com/FiammettaC/ChatGMP/issues"æ
