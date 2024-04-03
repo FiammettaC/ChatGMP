@@ -12,7 +12,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 def semantic_search(asked_question):
     model_search = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
-    with open('data_gmp_clean_2003_v3.json') as f:
+    with open('data_gmp_clean_2103.json') as f:
         data = json.load(f)
 
     similarity = []
@@ -149,7 +149,7 @@ def predict(question):
                             )
     output = tokenizer.decode(output[0], skip_special_tokens=True)
     output = output.replace('CONTEXT: ', '')
-    save_file(question, output, "test_2003.jsonl")
+    save_file(question, output, "test_after.jsonl")
     print(context)
     print(output)
     get_requested_document(context)
