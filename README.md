@@ -12,6 +12,9 @@ https://github.com/user-attachments/assets/7013d23e-4d50-471f-8b21-7720af2a0d65
 ## Contacts
 If you have any questions regarding the exercises or any feedback on the course, feel free to contact Fiammetta Caccavale (fiacac@kt.dtu.dk).
 
+## Read more about it
+You can find the full manuscript [here](https://www.sciencedirect.com/science/article/pii/S2666920X24001577).
+
 ## Cite this work
 If you would like to cite this work, please reference our paper: **ChatGMP: a case of AI chatbots in chemical engineering education towards the automation of repetitive tasks**.
 ```bibtex
