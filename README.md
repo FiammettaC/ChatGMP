@@ -10,7 +10,7 @@ Artificial Intelligence (AI) is rapidly and consistently becoming more integrate
 https://github.com/user-attachments/assets/7013d23e-4d50-471f-8b21-7720af2a0d65
 
 ## NEW REPO
-Please find the repo with the updated code and interface (here)[https://github.com/FiammettaC/ChatGMP_v2].
+Please find the repo with the updated code and interface [here](https://github.com/FiammettaC/ChatGMP_v2).
 
 ## Contacts
 If you have any questions regarding the exercises or any feedback on the course, feel free to contact Fiammetta Caccavale (fiacac@kt.dtu.dk).
